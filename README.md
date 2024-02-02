@@ -38,15 +38,6 @@ Empire Builder is a single-player turn-based empire-building game where players 
   - Barracks: Recruit infantry for hand-to-hand combat.
   - Stable: Recruit cavalry for fast, high-damage charges.
 
-## Contributing
-Contributions to the project are welcome! Follow the standard Git workflow:
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request for review.
-
-
 ## Acknowledgments
 - Inspired by historical empire-building games.
 - Built as part of a semester project.
